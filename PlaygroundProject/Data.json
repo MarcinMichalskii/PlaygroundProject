@@ -1,0 +1,21 @@
+{
+  "name": "Jan Kowalski",
+  "userName": "JanK123",
+  "id": "xxxxxxxxx",
+  "joinedAt": "2022-02-16T13:44:54.495Z",
+  "profileUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/R_federer.jpg/380px-R_federer.jpg",
+  "languages": [
+      {
+          "name": "German",
+          "flagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2880px-Flag_of_Germany.svg.png"
+      },
+      {
+          "name": "Portuguese",
+          "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2560px-Flag_of_Portugal.svg.png"
+      },
+      {
+          "name": "Russian",
+          "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/2560px-Flag_of_Russia.svg.png"
+      }
+  ]
+}
